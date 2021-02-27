@@ -68,7 +68,9 @@ private void menuChoice() {
 	System.out.println("\nYou may choose option 1,2, or 3");
 	System.out.println("**************************************************");
 	System.out.println("* 1. Find a film by the film ID.                 *");
+	System.out.println("*                                                *");
 	System.out.println("* 2. Find a film by using a keyword.             *");
+	System.out.println("*                                                *");
 	System.out.println("* 3. You may choose option 3 to exit the program.*");
 	System.out.println("*                                                *");
 	System.out.println("*                                                *");

@@ -106,7 +106,8 @@ public class Film {
 	 */
 	public double getRentalRate() {
 		return rentalRate;
-	}
+	
+}
 
 	/**
 	 * @param rentalRate the rentalRate to set
